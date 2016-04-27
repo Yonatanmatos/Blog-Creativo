@@ -1,0 +1,89 @@
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#wrapper {
+  width: 100%;
+  margin: auto;
+  max-width: 990px;
+}
+
+  header {
+    width: 100%;
+    height: 30px;
+    background-color: #ccc;
+    text-align: center;
+  }
+
+  header nav li {
+    word-spacing: 10px;
+    font-size: 25px;
+    display: inline-block;
+    list-style: none;
+    font-weight: bold;
+  }
+
+  #biografia {
+    height: 600px;
+    
+
+  }
+
+  #biografia h2 {
+    margin-top: 50px;
+    font-size: 50px;
+    margin-left: 500px;
+    
+  }
+
+  #biografia p {
+    font-size: 20px;
+    margin-left: 500px;
+  }
+
+  .retrato img {
+    width: 450px;
+    height: 450px;
+    position: absolute;
+    border-radius: 300px;
+    
+  }
+
+  #abilidades {
+    margin-top: 25px;
+    display: inline-block;
+  }
+
+  #abilidades h2 {
+    font-size: 50px;
+    font-weight: bold;
+  }
+
+  #abilidades img {
+    margin-top: 25px;
+    width: 300px;
+    height: auto;
+  }
+
+  #trabajo {
+    margin-top: 25px;
+    display: inline-block;
+  }
+
+  #trabajo h2 {
+    font-size: 50px;
+    font-weight: bold;
+  }
+
+  #trabajo img {
+    margin-top: 25px;
+    width: 450px;
+  }
+
+  .icono img {
+    width: 300px;
+    height: auto;
+  }
+
+
+
